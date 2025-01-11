@@ -1,8 +1,44 @@
-# React + Vite
+# Color Changer App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application that allows users to change the background color of the screen by clicking on color buttons.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Dynamically updates the background color.
+- A wide range of color options, including named colors and custom hex values.
+- Fully responsive design, optimized for all screen sizes.
+- Clean and modern UI with intuitive controls.
+
+## Technologies Used
+
+- React: Frontend library for building user interfaces.
+- Tailwind CSS: Utility-first CSS framework for styling.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Hamzabaloch08/color-changer-app.git
+
+##Navigate to the Project Directory:
+cd color-changer-app
+
+##Install Dependencies: Make sure you have Node.js and npm installed, then run:
+npm install
+
+##Start the Development Server:
+npm run dev
+
+##Project Structure
+color-changer-app/
+├── src/
+│   ├── App.js         # Main application component
+│   ├── index.js       # Entry point for the app
+│   ├── index.css      # Global styles
+│   └── ...            # Other React components and assets
+├── public/            # Public assets like HTML and favicon
+├── package.json       # Project configuration and dependencies
+├── tailwind.config.js # Tailwind CSS configuration
+└── README.md          # Project documentation
+
+
