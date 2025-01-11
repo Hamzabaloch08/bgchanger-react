@@ -31,8 +31,17 @@ Follow these steps to run the project locally:
 
 2. **Navigate to the Project Directory**:
 ```bash
-cd color-changer-app
+   cd color-changer-app
 ```
 3. **Install Dependencies**:
 ```bash
-npm install
+   npm install
+```
+4. **Start the Development Server**:
+```bash
+   npm run dev
+```
+5.**Access the App**:Open your browser and navigate to:
+```bash
+   http://localhost:3000
+```
