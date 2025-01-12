@@ -30,9 +30,9 @@ Follow these steps to run the project locally:
    git clone https://github.com/your-username/color-changer-app.git
 
 2. **Navigate to the Project Directory**:
-```bash
+   ```bash
    cd color-changer-app
-```
+   ```
 3. **Install Dependencies**:
    ```bash
    npm install
