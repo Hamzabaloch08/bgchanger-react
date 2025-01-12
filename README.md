@@ -44,4 +44,3 @@ Follow these steps to run the project locally:
 5. **Access the App**:Open your browser and navigate to:
       ```bash
          http://localhost:3000
-      ```**
