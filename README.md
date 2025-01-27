@@ -27,11 +27,11 @@ Follow these steps to run the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/color-changer-app.git
+   git clone https://github.com/your-username/bgchanger-react.git
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd color-changer-app
+   cd bgchanger-react
    ```
 3. **Install Dependencies**:
    ```bash
