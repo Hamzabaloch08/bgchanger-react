@@ -1,12 +1,39 @@
-# React + Vite
+# Background Color Changer App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app that lets users change the background color of the screen by clicking on dynamic color buttons. The app is styled with **Tailwind CSS** and features reusable button components with customizable text, background color, and font color.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Dynamically change the background color of the screen.
+- Customizable button text, background, and font colors.
+- Built with **React** and styled using **Tailwind CSS** for responsive design.
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React**: JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **JavaScript**: Core language for app functionality.
+
+## Installation
+
+Follow these steps to get the app up and running:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Hamzabaloch08/bgchanger-react.git
+
+2. **Navigate into the project directory:**
+
+   ```bash
+   cd bgchanger-react
+
+3. **Install the dependencies:**
+
+   ```bash
+   npm install
+
+4. **Start the development server:**
+
+   ```bash
+   npm start
